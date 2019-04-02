@@ -1,0 +1,14 @@
+.create-box label {
+    text-align: left;
+    width: 100%;
+}
+
+.create-box input,
+.create-box select,
+.create-box button {
+    margin-bottom: 20px;
+}
+
+.add-box {
+    margin-top: 7px;
+}
